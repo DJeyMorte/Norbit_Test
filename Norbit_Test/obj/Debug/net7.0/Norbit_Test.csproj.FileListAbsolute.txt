@@ -1,0 +1,15 @@
+C:\Users\alber\OneDrive\Desktop\Учеба\Program\Норбит\Norbit_Test\bin\Debug\net7.0\Norbit_Test.exe
+C:\Users\alber\OneDrive\Desktop\Учеба\Program\Норбит\Norbit_Test\bin\Debug\net7.0\Norbit_Test.deps.json
+C:\Users\alber\OneDrive\Desktop\Учеба\Program\Норбит\Norbit_Test\bin\Debug\net7.0\Norbit_Test.runtimeconfig.json
+C:\Users\alber\OneDrive\Desktop\Учеба\Program\Норбит\Norbit_Test\bin\Debug\net7.0\Norbit_Test.dll
+C:\Users\alber\OneDrive\Desktop\Учеба\Program\Норбит\Norbit_Test\bin\Debug\net7.0\Norbit_Test.pdb
+C:\Users\alber\OneDrive\Desktop\Учеба\Program\Норбит\Norbit_Test\obj\Debug\net7.0\Norbit_Test.csproj.AssemblyReference.cache
+C:\Users\alber\OneDrive\Desktop\Учеба\Program\Норбит\Norbit_Test\obj\Debug\net7.0\Norbit_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\Desktop\Учеба\Program\Норбит\Norbit_Test\obj\Debug\net7.0\Norbit_Test.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Desktop\Учеба\Program\Норбит\Norbit_Test\obj\Debug\net7.0\Norbit_Test.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Desktop\Учеба\Program\Норбит\Norbit_Test\obj\Debug\net7.0\Norbit_Test.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Desktop\Учеба\Program\Норбит\Norbit_Test\obj\Debug\net7.0\Norbit_Test.dll
+C:\Users\alber\OneDrive\Desktop\Учеба\Program\Норбит\Norbit_Test\obj\Debug\net7.0\refint\Norbit_Test.dll
+C:\Users\alber\OneDrive\Desktop\Учеба\Program\Норбит\Norbit_Test\obj\Debug\net7.0\Norbit_Test.pdb
+C:\Users\alber\OneDrive\Desktop\Учеба\Program\Норбит\Norbit_Test\obj\Debug\net7.0\Norbit_Test.genruntimeconfig.cache
+C:\Users\alber\OneDrive\Desktop\Учеба\Program\Норбит\Norbit_Test\obj\Debug\net7.0\ref\Norbit_Test.dll
